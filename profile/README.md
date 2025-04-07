@@ -1,6 +1,6 @@
 # 🎉 National-Level Technocultural Event 🎨
 
-![Envision Banner](https://via.placeholder.com/1200x400.png?text=Envision+Technocultural+Event+Banner)
+![Envision Banner](https://avatars.githubusercontent.com/u/203489349?s=400&u=de57ee8b918b5ccd763409ed63319f17e6bf08f2&v=4)
 
 Welcome to the official GitHub repository for **Envision**, the national-level technocultural event hosted by **Srinivas Institute of Technology**! 🎊
 
